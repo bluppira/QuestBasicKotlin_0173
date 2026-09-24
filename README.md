@@ -8,3 +8,6 @@ Tipe Data Dasar
 
 List
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7507a947-6f76-4ba8-a17a-c049be1702fd" />
+
+Set
+![Uploading image.png…]()
